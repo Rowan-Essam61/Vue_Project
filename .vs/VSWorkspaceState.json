@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\json",
+    "\\src\\router",
+    "\\src\\scss",
+    "\\src\\scss\\global",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\main.js",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.vs"
+		},
+		{
+			"path": "..\\..\\node_modules"
+		},
+		{
+			"path": "..\\..\\public"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\tests"
+		}
+	]
+}
